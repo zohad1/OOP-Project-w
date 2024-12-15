@@ -1,0 +1,10 @@
+1 Phone 300
+2 Headphones 50
+3 Laptop 800
+4 Keyboard 40
+5 Mouse 30
+6 Monitor 200
+7 Printer 150
+8 Scanner 120
+9 Tablet 400
+10 WebCam 100

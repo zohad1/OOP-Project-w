@@ -1,0 +1,27 @@
+Customer Details:
+Name: zohad
+Email: zuhad@gmail.com
+Address: islo
+Phone: 312321321
+Order Details:
+1 Phone 300
+Total Price: $300
+--------------------------
+Customer Details:
+Name: zohad
+Email: zohad@gmail.com
+Address: islo
+Phone: 1323123412
+Order Details:
+1 Phone 300
+Total Price: $300
+--------------------------
+Customer Details:
+Name: zohad
+Email: zohad@gmail.com
+Address: awdadw
+Phone: 13231321
+Order Details:
+1 Phone 300
+Total Price: $300
+--------------------------
